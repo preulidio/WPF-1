@@ -46,6 +46,7 @@ namespace testwpf
             con.Close();
             Datagrid.ItemsSource = dt.DefaultView;
         }
+        //PREULIDIO
         private void Submit_click(object sender, RoutedEventArgs e)
         {
             try 
