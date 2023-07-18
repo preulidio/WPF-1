@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rcj+YP1Psp4A6d4BaqrlcUxTBql+WFUXDBaDe+2mL1VW5SuBjSG3li6zJC89yU095ZHKr+H/u7iL7Ni0cacYfw==",
+  "dgSpecHash": "ckZxAsn2XM/4eEV/CYYQPuGTYlc3NH/zhTfHDS9z0IhzKzO2izreMBsN9ttp6OTSBZ5yLk9CVp2hkZp4wegEpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PRECO\\source\\repos\\testwpf\\testwpf\\testwpf.csproj",
+  "projectFilePath": "C:\\Users\\PRECO\\Source\\Repos\\WPF-1\\testwpf\\testwpf.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PRECO\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\PRECO\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
